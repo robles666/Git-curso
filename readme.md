@@ -1,6 +1,9 @@
 [Git_curso_Bootcamp]
 [13/01/2023]
 
+[![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
+
 1_ [introduccion_a_los_sistemas_de_control_de_versiones]
     https://windows.github.com [para_windows]
     https://mac.github.com [para_mac]
