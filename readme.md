@@ -3,18 +3,21 @@
 [![Git_curso_Bootcamp]()
 [13/01/2023]
 
+[![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
+
 1_ [introduccion_a_los_sistemas_de_control_de_versiones]
     https://windows.github.com [para_windows]
     https://mac.github.com [para_mac]
     https://git-scm.com [plataforma]
 
 [2_  [configuracion_de_herramientas]]
-    git config --global user.name ["name"]
-    git config --global user.mail ["email_address"]
-    git config --global color.iu auto
-    git config --global core.autocrlf True
-    git config --global -n (ver opciones de configuraciones GIT)
-    git config --global -e (ver configuracion existente)
+    * git config --global user.name ["name"]
+    * git config --global user.mail ["email_address"]
+    * git config --global color.iu auto
+    * git config --global core.autocrlf True
+    * git config --global -n (ver opciones de configuraciones GIT)
+    * git config --global -e (ver configuracion existente)
 
 3_ [crear_repositorios]
     git init [project_name]
