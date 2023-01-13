@@ -18,8 +18,8 @@
     git config --global -e (ver configuracion existente)
 
 3_ [crear_repositorios]
-    git init [project_name]
-    git clone [url]
+    * git init [project_name]
+    * git clone [url]
 
 4_ [ver_efectuar_cambios]
     git status
