@@ -1,4 +1,6 @@
-[Git_curso_Bootcamp]
+# Git Curso Bootcamp
+
+[![Git_curso_Bootcamp]()
 [13/01/2023]
 
 1_ [introduccion_a_los_sistemas_de_control_de_versiones]
@@ -6,7 +8,7 @@
     https://mac.github.com [para_mac]
     https://git-scm.com [plataforma]
 
-2_  [configuracion_de_herramientas]
+[2_  [configuracion_de_herramientas]]
     git config --global user.name ["name"]
     git config --global user.mail ["email_address"]
     git config --global color.iu auto
