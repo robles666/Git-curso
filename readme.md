@@ -1,8 +1,8 @@
-# Git Curso Bootcamp
+# *Git Curso Bootcamp*
 
-[Git_curso_Bootcamp]()
+[Git curso Bootcamp]()
 
-Apuntes de curso de OpenBootcam
+> Apuntes de curso de OpenBootcam
 
 
 
@@ -10,14 +10,15 @@ Apuntes de curso de OpenBootcam
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
+[![OpenBootcam](https://img.shields.io/badge/OpenBootcamp-Web-blue?style=for-the-badge&logo=openbootcamp&logoColor=White%labelColor=101010)](https://open-bootcamp.com/) 
 
-1_ [introduccion_a_los_sistemas_de_control_de_versiones]
+1_ Introduccion a los sistemas de control de versiones
 
     https://windows.github.com [para_windows]
     https://mac.github.com [para_mac]
     https://git-scm.com [plataforma]
 
-2_  [configuracion_de_herramientas]
+2_  [Configuracion de herramientas]
 
     git config --global user.name ["name"]
     git config --global user.mail ["email_address"]
@@ -26,12 +27,12 @@ Apuntes de curso de OpenBootcam
     git config --global -n                  (ver opciones de configuraciones GIT)
     git config --global -e                  (ver configuracion existente)
 
-3_ [crear_repositorios]
+3_ [Crear repositorios]
 
     git init [project_name]
     git clone [url]
 
-4_ [ver_efectuar_cambios]
+4_ [Ver efectuar cambios]
 
     git status
     git status -s
@@ -42,7 +43,7 @@ Apuntes de curso de OpenBootcam
     git log --oneline
     git commit -m ["Description_message"]
 
-5_ [Cambios_grupales]
+5_ [Cambios grupales]
 
     git branch
     git branch [branch_name]
@@ -56,14 +57,14 @@ Apuntes de curso de OpenBootcam
     git rm --cached [file]
     git rm [file_original] [file_renamed]
 
-7_ [Guardar_Fragmentos]
+7_ [Guardar Fragmentos]
 
     git stash       (almacena temporalmente los archivos tracked modificados)
     git stach pop   (restaura los archivos guardados mas recientes)
     git stash list  (enumera todos los sets de cambios en guardado rapido)
     git stash drop  (elimina set de cambios en guardado rapido mas reciente)
 
-8_ [Repasar_historial]
+8_ [Repasar historial]
 
     git log
     git log --follow [file]
@@ -71,12 +72,12 @@ Apuntes de curso de OpenBootcam
     git diff [first_branch]...[second_branch]
     git show [commit]
 
-9_ [Rehacer_commit]
+9_ [Rehacer commit]
 
     git reset [commit]
     git reset --hard [commit]
 
-10_ [sincronizar_cambios]
+10_ [Sincronizar cambios]
 
     git fetch [bookmark]
     git merge [bookmark] [branch]
